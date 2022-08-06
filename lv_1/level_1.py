@@ -1,7 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import string
 # alphabet = "abcdefghijklmnopqrstuvwxyz"
 # change_alphabet = "cdefghijklmnopqrstuvwxyzab"
 # Step 2
@@ -35,5 +34,7 @@ def answer(origin_text):
 
 if __name__ == "__main__":
     text_str = "g fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. bmgle gr gl zw fylb gq glcddgagclr ylb rfyr'q ufw rfgq rcvr gq qm jmle. sqgle qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj."
-    print(ascii_to_char(text_str))
-    print(answer(text_str))
+    html_str = "map.html"
+    uri_str = "map"
+    print(ascii_to_char(html_str))
+    print(answer(uri_str))
