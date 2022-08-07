@@ -1,4 +1,4 @@
-# PPC(PythonChallenge in Code)
+# PCC(PythonChallenge in Code)
 ### Problem-solving code for pythonchallenge.com site
 - https://happylie.tistory.com/category/CTF/pythonchallenge
 
